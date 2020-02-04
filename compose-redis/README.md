@@ -1,0 +1,1 @@
+docker exec -it <redis container ID> redis-cli
